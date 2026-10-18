@@ -4,7 +4,7 @@
 
 深澜 SRun 校园网的断线自动**重新认证**工具。手机在校园网里掉线后，它会自己向门户重新登录一次，恢复成功记一条日志；网络本来就是通的，它就什么都不做。
 
-纯 Java、零第三方依赖、不用 Gradle / AndroidX，代码 33 KB，APK 约 158 KB。不 root、不装模块、不改系统网络设置，也不用重新输入 WiFi 密码。
+纯 Java、零第三方依赖、不用 Gradle / AndroidX，10 个源文件约 7600 行、APK 约 158 KB。不 root、不装模块、不改系统网络设置，也不用重新输入 WiFi 密码。
 
 <img src="res/mipmap-xxxhdpi/ic_launcher.png" alt="应用图标" width="96">
 
