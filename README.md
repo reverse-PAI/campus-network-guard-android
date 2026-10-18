@@ -154,3 +154,7 @@ sh build.sh      # 产物 dist/campus-guard-v3.0.1.apk
 验收清单（三条环境相关项，含判定标准与采集命令）：见 `验收清单.md`。
 
 变更记录见 `CHANGELOG.md`。
+
+## 许可协议
+
+本项目以 [MIT License](LICENSE) 开源（Copyright © 2026 reverse-PAI）。
